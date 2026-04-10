@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.joblib
+*.json
+*.png
+.env
+venv/
+.venv/
